@@ -1,0 +1,10 @@
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Debug\Utils.Log.FormLog.resources
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Debug\Utils.Log.LogResource.resources
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Debug\Utils.Log.LogTable.resources
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\bin\Debug\Utils.Log.dll
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\bin\Debug\Utils.Log.pdb
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Debug\Utils.Log.dll
+C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Debug\Utils.Log.pdb

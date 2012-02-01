@@ -105,7 +105,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Location = new System.Drawing.Point(1360, 780);
             this.Name = "FormLog";
-            this.Opacity = 0.8D;
+            this.Opacity = 0.95D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.Manual;
             this.Text = "LOG";
             this.TopMost = true;

@@ -72,7 +72,7 @@ namespace Utils.Log
             // 
             this.column_date_time.DataPropertyName = "date_time";
             dataGridViewCellStyle2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F/*12F*/, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.Format = "HH:MM:ss";
+            dataGridViewCellStyle2.Format = "hh:mm:ss";
             dataGridViewCellStyle2.NullValue = null;
             this.column_date_time.DefaultCellStyle = dataGridViewCellStyle2;
             this.column_date_time.HeaderText = "Time";
@@ -103,6 +103,7 @@ namespace Utils.Log
             // 
             this.table_log_binding.DataMember = "table_log_t";
             this.table_log_binding.DataSource = log_manager.Instance.logDataSet;
+            this.table_log_binding.Sort = "date_time DESC";
             // 
             // LogTable
             // 
