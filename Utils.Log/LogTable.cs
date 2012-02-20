@@ -176,6 +176,7 @@ namespace Utils.Log
 
             this.data_grid.RowPrePaint -= data_grid_RowPrePaint;
             this.data_grid.SelectionChanged -= data_grid_SelectionChanged;
+            log_manager.Instance.logDataSet.table_log_t.TableNewRow -= this.table_log_t_TableNewRow;
 
             base.Dispose(disposing);
         }
