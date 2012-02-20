@@ -125,6 +125,7 @@ namespace Utils.Log
 
             this.data_grid.RowPrePaint += data_grid_RowPrePaint;
             this.data_grid.SelectionChanged += data_grid_SelectionChanged;
+            log_manager.Instance.logDataSet.table_log_t.TableNewRow += this.table_log_t_TableNewRow;
         }
 
         public void Filter(Boolean alarm_visible, Boolean warning_visible, Boolean message_visible)
@@ -209,6 +210,12 @@ namespace Utils.Log
             }
 
             this.data_grid.Rows[e.RowIndex].DefaultCellStyle.BackColor = color_row;
+        }
+
+        void table_log_t_TableNewRow(object sender, DataTableNewRowEventArgs e)
+        {
+            if ( this.data_grid.RowCount > 0 )
+                this.data_grid.CurrentCell = this.data_grid[0,0];
         }
 
         /// <summary>

@@ -8,3 +8,13 @@ C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Release\GenerateResource.rea
 C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Release\GenerateResource.write.1.tlog
 C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Release\Utils.Log.dll
 C:\Users\Davide\Desktop\R&D\Utils.Log\Utils.Log\obj\Release\Utils.Log.pdb
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\bin\Release\Utils.Log.dll
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\bin\Release\Utils.Log.pdb
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\obj\Release\Utils.Log.FormLog.resources
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\obj\Release\Utils.Log.LogResource.resources
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\obj\Release\Utils.Log.LogTable.resources
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\obj\Release\Utils.Log.dll
+C:\Users\Davide\Desktop\PROJECT\R&D\Utils.Log\Utils.Log\obj\Release\Utils.Log.pdb
